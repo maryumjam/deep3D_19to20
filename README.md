@@ -28,3 +28,17 @@ Interns:
 
        Harry Kim, Hyungju Lee
        
+Session Time:
+          
+          1pm-2pm every Monday
+          
+Description:
+
+         Format is similar to reading club. Members of the group will read latest research paper in field of deep learning
+         together and discuss it. Brainstorming for different ideas will be done together in this session. On alternative 
+         weeks we will discuss research progress of one of the members. It will keep us updated as group and enable us to 
+         collaborate on different research problem
+         
+Schedule:
+         
+         TBD
