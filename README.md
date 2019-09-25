@@ -34,10 +34,10 @@ Session Time:
           
 Description:
 
-         Format is similar to reading club. Members of the group will read latest research paper in field of deep learning
-         together and discuss it. Brainstorming for different ideas will be done together in this session. On alternative 
-         weeks we will discuss research progress of one of the members. It will keep us updated as group and enable us to 
-         collaborate on different research problem
+         Format is similar to reading club. Members of the group will read latest research paper in field of deep 
+         learning together and discuss it. Brainstorming for different ideas will be done together in this session.
+         On alternative weeks we will discuss research progress of one of the members. It will keep us updated as 
+         group and enable us to collaborate on different research problem
          
 Schedule:
          
