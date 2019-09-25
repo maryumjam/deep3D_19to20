@@ -11,20 +11,20 @@ Professors:
 
       Dr. Gunho Sohn, Dr Costas Armenakis
       
-Adjunct professor: 
+Adjunct Professor: 
 
         Dr Connie Ko
         
-Postdoc:
+PDFs:
 
         Dr.Ali Baligh, Dr. Jungwon Kang, Dr.Seungho Yang
         
-Student: 
+Students: 
 
       Kivanc Babacan , Maryam Jameela, Zahra Arjmandi, Muhammad Kamran, Afnan Ahmad 
       Amin Abbasnejad, Jacob Yoo, Sowmaya, Evangelos Bousias- Alexakis
       
-Intern: 
+Interns: 
 
        Harry Kim, Hyungju Lee
        
