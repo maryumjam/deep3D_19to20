@@ -22,7 +22,8 @@ PDFs:
 Students: 
 
       Kivanc Babacan , Maryam Jameela, Zahra Arjmandi, Muhammad Kamran, Afnan Ahmad 
-      Amin Abbasnejad, Jacob Yoo, Sowmaya, Evangelos Bousias- Alexakis
+      Seyed-Mohammad-Reza Hosseini,Amin Abbasnejad, Jacob Yoo, 
+      Sowmaya, Evangelos Bousias- Alexakis
       
 Interns: 
 
